@@ -1,0 +1,9 @@
+
+flask
+flask-cors
+pymongo
+twilio
+requests
+pillow
+pdfplumber
+geopy
